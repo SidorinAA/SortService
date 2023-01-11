@@ -8,6 +8,6 @@ This app is consisted from two parts:
 2) client based on Vue.js
 
 
-
+[Source of this project](https://www.youtube.com/@TheAzimut83)
 
 
